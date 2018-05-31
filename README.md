@@ -1,2 +1,2 @@
 # IPS
-Image processing laboratory
+Image processing system
