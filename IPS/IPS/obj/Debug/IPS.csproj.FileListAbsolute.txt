@@ -1,0 +1,170 @@
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\bin\Debug\IPS.exe
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\bin\Debug\IPS.pdb
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\MainWindow.baml
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\MainWindow.g.cs
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\App.g.cs
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS_MarkupCompile.cache
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS.g.resources
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS.Properties.Resources.resources
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS.csproj.GenerateResource.Cache
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS.exe
+c:\users\okean\documents\visual studio 2013\Projects\IPS\IPS\obj\Debug\IPS.pdb
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\bin\Debug\IPS.exe.config
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\NodeConnector.baml
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\NodeConnector.g.cs
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\IPS_MarkupCompile.lref
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\NodeControl.g.cs
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\NodeControl.baml
+C:\Users\OKeaN\Documents\Visual Studio 2013\Projects\IPS\IPS\obj\Debug\App.baml
+H:\Proj\IPS\IPS\bin\Debug\IPS.exe.config
+H:\Proj\IPS\IPS\obj\Debug\IPS.exe
+H:\Proj\IPS\IPS\obj\Debug\IPS.pdb
+H:\Proj\IPS\IPS\bin\Debug\cvextern.dll
+H:\Proj\IPS\IPS\bin\Debug\IPS.exe
+H:\Proj\IPS\IPS\bin\Debug\IPS.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Contrib.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Cuda.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.ML.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.OCR.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Shape.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Stitching.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Superres.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.GL.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.Util.dll
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.GLControl.dll
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.dll
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.Compatibility.dll
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Contrib.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Cuda.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.ML.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.OCR.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Shape.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Stitching.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Superres.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.pdb
+H:\Proj\IPS\IPS\bin\Debug\Emgu.Util.pdb
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.GLControl.xml
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.pdb
+H:\Proj\IPS\IPS\bin\Debug\OpenTK.xml
+H:\Proj\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
+H:\Proj\IPS\IPS\obj\Debug\NodeConnector.baml
+H:\Proj\IPS\IPS\obj\Debug\App.baml
+H:\Proj\IPS\IPS\obj\Debug\MainWindow.g.cs
+H:\Proj\IPS\IPS\obj\Debug\NodeConnector.g.cs
+H:\Proj\IPS\IPS\obj\Debug\NodeControl.g.cs
+H:\Proj\IPS\IPS\obj\Debug\App.g.cs
+H:\Proj\IPS\IPS\obj\Debug\IPS_Content.g.cs
+H:\Proj\IPS\IPS\obj\Debug\IPS_MarkupCompile.cache
+H:\Proj\IPS\IPS\obj\Debug\IPS_MarkupCompile.lref
+H:\Proj\IPS\IPS\obj\Debug\MainWindow.baml
+H:\Proj\IPS\IPS\obj\Debug\NodeControl.baml
+H:\Proj\IPS\IPS\obj\Debug\IPS.g.resources
+H:\Proj\IPS\IPS\obj\Debug\IPS.Properties.Resources.resources
+H:\Proj\IPS\IPS\obj\Debug\IPS.csproj.GenerateResource.Cache
+D:\Proj\IPS\IPS\bin\Debug\cvextern.dll
+D:\Proj\IPS\IPS\bin\Debug\IPS.exe.config
+D:\Proj\IPS\IPS\bin\Debug\IPS.exe
+D:\Proj\IPS\IPS\bin\Debug\IPS.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Contrib.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Cuda.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.ML.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.OCR.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Shape.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Stitching.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Superres.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.Util.dll
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Contrib.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Cuda.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.ML.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.OCR.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Shape.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Stitching.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.Superres.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.UI.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.pdb
+D:\Proj\IPS\IPS\bin\Debug\Emgu.Util.pdb
+D:\Proj\IPS\IPS\obj\Debug\MainWindow.g.cs
+D:\Proj\IPS\IPS\obj\Debug\NodeControl.g.cs
+D:\Proj\IPS\IPS\obj\Debug\App.g.cs
+D:\Proj\IPS\IPS\obj\Debug\IPS_Content.g.cs
+D:\Proj\IPS\IPS\obj\Debug\IPS_MarkupCompile.cache
+D:\Proj\IPS\IPS\obj\Debug\IPS_MarkupCompile.lref
+D:\Proj\IPS\IPS\obj\Debug\MainWindow.baml
+D:\Proj\IPS\IPS\obj\Debug\NodeControl.baml
+D:\Proj\IPS\IPS\obj\Debug\IPS.g.resources
+D:\Proj\IPS\IPS\obj\Debug\IPS.Properties.Resources.resources
+D:\Proj\IPS\IPS\obj\Debug\IPS.csproj.GenerateResource.Cache
+D:\Proj\IPS\IPS\obj\Debug\IPS.exe
+D:\Proj\IPS\IPS\obj\Debug\IPS.pdb
+D:\Proj\IPS\IPS\obj\Debug\App.baml
+H:\IPS\IPS\bin\Debug\IPS.exe.config
+H:\IPS\IPS\obj\Debug\IPS.exe
+H:\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
+H:\IPS\IPS\obj\Debug\App.baml
+H:\IPS\IPS\obj\Debug\MainWindow.g.cs
+H:\IPS\IPS\obj\Debug\NodeControl.g.cs
+H:\IPS\IPS\obj\Debug\App.g.cs
+H:\IPS\IPS\obj\Debug\IPS_Content.g.cs
+H:\IPS\IPS\obj\Debug\IPS_MarkupCompile.cache
+H:\IPS\IPS\obj\Debug\IPS_MarkupCompile.lref
+H:\IPS\IPS\bin\Debug\cvextern.dll
+H:\IPS\IPS\bin\Debug\IPS.exe
+H:\IPS\IPS\bin\Debug\IPS.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Contrib.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.Cuda.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.ML.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.OCR.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.Shape.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.Stitching.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.Superres.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.UI.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.UI.GL.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.dll
+H:\IPS\IPS\bin\Debug\Emgu.Util.dll
+H:\IPS\IPS\bin\Debug\OpenTK.GLControl.dll
+H:\IPS\IPS\bin\Debug\OpenTK.dll
+H:\IPS\IPS\bin\Debug\OpenTK.Compatibility.dll
+H:\IPS\IPS\bin\Debug\Emgu.CV.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Contrib.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Cuda.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.ML.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.OCR.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Shape.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Stitching.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.Superres.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.UI.pdb
+H:\IPS\IPS\bin\Debug\Emgu.CV.VideoStab.pdb
+H:\IPS\IPS\bin\Debug\Emgu.Util.pdb
+H:\IPS\IPS\bin\Debug\OpenTK.GLControl.xml
+H:\IPS\IPS\bin\Debug\OpenTK.pdb
+H:\IPS\IPS\bin\Debug\OpenTK.xml
+H:\IPS\IPS\obj\Debug\NodeSocket.baml
+H:\IPS\IPS\obj\Debug\NodeSocket.g.cs
+H:\IPS\IPS\obj\Debug\MainWindow.baml
+H:\IPS\IPS\obj\Debug\NodeControl.baml
+H:\IPS\IPS\obj\Debug\IPS.g.resources
+H:\IPS\IPS\obj\Debug\IPS.Properties.Resources.resources
+H:\IPS\IPS\obj\Debug\IPS.csproj.GenerateResource.Cache
+H:\IPS\IPS\obj\Debug\IPS.pdb
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.GLControl.dll
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.dll
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.Compatibility.dll
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.GLControl.xml
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.pdb
+D:\Proj\IPS\IPS\bin\Debug\OpenTK.xml
+D:\Proj\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
+D:\Proj\IPS\IPS\obj\Debug\NodeSocket.baml
+D:\Proj\IPS\IPS\obj\Debug\NodeSocket.g.cs
+D:\Proj\IPS\IPS\obj\Debug\TableControl.baml
+D:\Proj\IPS\IPS\obj\Debug\TableControl.g.cs

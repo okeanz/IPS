@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="IPS.NodeSocket"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="20" Margin="5">
+    <DockPanel Name="DPanel" >
+        <!--<Label Name="LeftLabel" Content="" Foreground="#FFFDFDFD" HorizontalAlignment="Left" Margin="0,-4,0,-5"/>-->
+        <!--<Ellipse Name="Connector"  Stroke="Black" Fill="#FFF4F4F5" HorizontalAlignment="Left" Width="20" Height="20" />
+        <Label Name="RightLabel" Content="" Foreground="#FFFDFDFD" HorizontalAlignment="Left" Margin="0,-4,0,-5"/>-->
+
+    </DockPanel>
+</UserControl>
